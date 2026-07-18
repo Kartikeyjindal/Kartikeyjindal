@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kartikey Jindal</h1>
+<div align="center">
 
-<h3 align="center">B.Tech CSE @ Delhi Technological University (DTU)</h3>
+<h1>Hi 👋, I'm Kartikey Jindal</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%40+DTU+Delhi;MERN+Stack+Developer;Full-Stack+Engineer;Building+Fintech+Products+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -10,7 +14,7 @@
 - 🏗️ MERN Stack Developer proficient in **Full-Stack Development & System Design**
 - 🚀 Currently building: **Elevate Equity** — India's digital equity crowdfunding & startup investment platform
 - 💬 Ask me about: **React, Node.js, MongoDB, Express.js, REST APIs, or anything full-stack**
-- 📧 Reach out: kartikeyjindal@gmail.com
+- 📧 Reach out: kartikey.jindal00@gmail.com
 - 🔗 Connect with me: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kartikeyjindal)
 
 ---
@@ -40,14 +44,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikeyjindal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeyjindal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikeyjindal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeyjindal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kartikeyjindal&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kartikeyjindal&color=blueviolet&style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kartikeyjindal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>

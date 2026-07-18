@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kartikey Jindal</h1>
 
-<h3 align="center">MERN Stack Developer · Full-Stack Engineer · India 🇮🇳</h3>
+<h3 align="center">B.Tech CSE @ Delhi Technological University (DTU)</h3>
 
 ---
 
 ### 🌟 About Me
 
-- 🎓 **Full-Stack Developer** proficient in **MERN Stack & System Design**
-- 🏗️ Currently building: **[Elevate Equity](https://github.com/Kartikeyjindal/Elevate)** — India's digital equity crowdfunding & startup investment platform
+- 🎓 **B.Tech CSE @ Delhi Technological University (DTU)**
+- 🏗️ MERN Stack Developer proficient in **Full-Stack Development & System Design**
+- 🚀 Currently building: **Elevate Equity** — India's digital equity crowdfunding & startup investment platform
 - 💬 Ask me about: **React, Node.js, MongoDB, Express.js, REST APIs, or anything full-stack**
-- 📧 Reach out: **kartikeyjindal@gmail.com**
+- 📧 Reach out: kartikeyjindal@gmail.com
 - 🔗 Connect with me: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kartikeyjindal)
 
 ---
 
 ### 🧠 Currently Building
 
-- 🚀 **[Elevate Equity](https://github.com/Kartikeyjindal/Elevate)**: A full-stack equity crowdfunding platform where investors explore startup listings, invest from a digital wallet, track portfolio P&L, and read live market news — while founders apply for funding and admins review & approve listings.
+- 🚀 **[Elevate Equity](https://github.com/Kartikeyjindal/Elevate)**: A comprehensive full-stack equity crowdfunding platform connecting early-stage Indian startups with retail investors — featuring digital wallets, Razorpay payments, live market news, portfolio tracking, and a 3-role system (Investor / Founder / Admin).
 
 ---
 

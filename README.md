@@ -2,7 +2,7 @@
 
 <h1>Hi ğŸ, I\'m Kartikey Jindal</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%40DTU-Delhi;MERN+Stack+Developer;Full-Stack+Engineer;Building+Fintech+Products+%F0%8F%98%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%40DTU-Delhi;MERN+Stack+Developer;Full-Stack+Engineer;Building+Fintech+Products+%F0%9F%98%80" alt="Typing SVG" />
 
 </div>
 
@@ -25,32 +25,16 @@
 
 ---
 
-### ğŸ—»ğ”¼ Social Links
-
-<p align="center">
-  <a href="https://linkedin.com/in/kartikey-jindal-23b3a254">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kartikeyjindal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:kartikey.jindal00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DD33B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### ğŸ•½ï¸ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&lagoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Razorpay-072654?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&lagoColor=black" />
+  <img src="https://img.shields.io/badge/Razorpay-072654?style=for-the-badge&logo=razorpay&lagoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -61,7 +45,7 @@
 ### ğŸ“Š GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikeyjindal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikeyjindal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-lang/?username=Kartikeyjindal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 

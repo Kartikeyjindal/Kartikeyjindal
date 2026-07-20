@@ -45,8 +45,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kartikeyjindal&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=Kartikeyjindal&theme=tokyonight" />
+  <img src="https://img.shields.io/github/stars/Kartikeyjindal?style=for-the-badge&logo=github&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/Kartikeyjindal?style=for-the-badge&logo=github&color=blueviolet" />
+  <br/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=blueviolet&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKartikeyjindal" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=blueviolet&label=Contributions&query=%24.data.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fcontributions%2FKartikeyjindal" />
 </div>
 
 <div align="center">
